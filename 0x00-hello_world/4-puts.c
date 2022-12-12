@@ -1,6 +1,6 @@
 #include <stdio.h>
+/* main indicating entry point */
 int main(void)
-/*main indicating entry point */
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
